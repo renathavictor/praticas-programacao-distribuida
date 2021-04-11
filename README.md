@@ -5,4 +5,4 @@
 * [NFS com Sockets](https://github.com/renathavictor/praticas-programacao-distribuida/tree/main/nfs-sockets)
 * [EJB](https://github.com/renathavictor/praticas-programacao-distribuida/tree/main/pratica-ejb)
 * [RabbitMQ](https://github.com/renathavictor/praticas-programacao-distribuida/tree/main/pratica-rabbitmq)
-
+* [Filas de trabalho](https://github.com/renathavictor/praticas-programacao-distribuida/tree/main/rabbitmq-work-queues)
